@@ -1,0 +1,27 @@
+{
+  "appName": "AppFlowy",
+  "defaultUsername": "Mina",
+  "welcomeText": "Tere tulemast @:appName'isse",
+  "welcomeTo": "Tere tulemast",
+  "githubStarText": "Lisage tärn GitHubis",
+  "subscribeNewsletterText": "Telli uudiskiri",
+  "letsGoButtonText": "Kiire algus",
+  "title": "Pealkiri",
+  "youCanAlso": "Teie Võite ka",
+  "and": "ja",
+  "failedToOpenUrl": "URL-i avamine ebaõnnestus: {}",
+  "blockActions": {
+    "addBelowTooltip": "Klõpsake allpool lisamiseks",
+    "addAboveCmd": "Alt + klõps",
+    "addAboveMacCmd": "Valik + klõps",
+    "addAboveTooltip": "ülalpool lisamiseks",
+    "dragTooltip": "Lohistage liigutamiseks",
+    "openMenuTooltip": "Klõpsake menüü avamiseks"
+  },
+  "signUp": {
+    "buttonText": "Registreeri",
+    "title": "Registreeri @:appName'i konto",
+    "getStartedText": "Alusta",
+    "emptyPasswordError": "Salasõna ei tohi olla tühi"
+  }
+}

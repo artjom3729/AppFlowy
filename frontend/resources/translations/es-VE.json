@@ -901,7 +901,6 @@
       "autoGeneratorCantGetOpenAIKey": "No puedo obtener la clave de AI",
       "autoGeneratorRewrite": "Volver a escribir",
       "smartEdit": "Asistentes de IA",
-      "openAI": "IA abierta",
       "smartEditFixSpelling": "Corregir ortografía",
       "warning": "⚠️ Las respuestas de la IA pueden ser inexactas o engañosas.",
       "smartEditSummarize": "Resumir",
@@ -1003,7 +1002,8 @@
         "newDatabase": "Nueva base de datos",
         "linkToDatabase": "Enlace a la base de datos"
       },
-      "date": "Fecha"
+      "date": "Fecha",
+      "openAI": "IA abierta"
     },
     "outlineBlock": {
       "placeholder": "Tabla de contenidos"
