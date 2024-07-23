@@ -22,6 +22,23 @@
     "buttonText": "Registreeri",
     "title": "Registreeri @:appName'i konto",
     "getStartedText": "Alusta",
-    "emptyPasswordError": "Salasõna ei tohi olla tühi"
+    "emptyPasswordError": "Salasõna ei tohi olla tühi",
+    "repeatPasswordEmptyError": "Salasõna kordus ei tohi olla tühi",
+    "unmatchedPasswordError": "Salasõna kordus ei ole sama kui salasõna",
+    "alreadyHaveAnAccount": "On juba konto olemas?",
+    "emailHint": "E-post",
+    "passwordHint": "Salasõna",
+    "repeatPasswordHint": "Korda salasõna",
+    "signUpWith": "Registreeri äpiga:"
+  },
+  "signIn": {
+    "loginTitle": "Logi sisse @:appName'isse",
+    "loginButtonText": "Logi sisse",
+    "loginStartWithAnonymous": "Jätka anonüümse seansiga",
+    "continueAnonymousUser": "Jätka anonüümse seansiga",
+    "buttonText": "Logi sisse",
+    "signingInText": "Sisselogimine...",
+    "forgotPassword": "Unustasite salasõna?",
+    "emailHint": "E-post"
   }
 }
