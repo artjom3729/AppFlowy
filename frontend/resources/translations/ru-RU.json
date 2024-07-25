@@ -286,7 +286,9 @@
     "removeSuccess": "Удалено успешно",
     "favoriteSpace": "Избранное",
     "RecentSpace": "Недавнее",
-    "Spaces": "Пространства"
+    "Spaces": "Пространства",
+    "upgradeToPro": "Обновиться до Pro",
+    "upgradeToAIMax": "Разблокировать неограниченный ИИ"
   },
   "notifications": {
     "export": {
@@ -724,8 +726,8 @@
       "actions": {
         "upgrade": "Обновиться",
         "downgrade": "Понизиться",
-        "downgradeDisabledTooltip": "Вы автоматически понизите план в конце платежного цикла.",
-        "current": "Текущий"
+        "current": "Текущий",
+        "downgradeDisabledTooltip": "Вы автоматически понизите план в конце платежного цикла."
       },
       "freePlan": {
         "title": "Бесплатный",
@@ -1402,8 +1404,8 @@
         "depth": "Глубина"
       },
       "image": {
-        "copiedToPasteBoard": "Ссылка на изображение скопирована в буфер обмена",
         "addAnImage": "Добавить изображение",
+        "copiedToPasteBoard": "Ссылка на изображение скопирована в буфер обмена",
         "imageUploadFailed": "Не удалось загрузить изображение.",
         "errorCode": "Код ошибки"
       },
@@ -1503,7 +1505,18 @@
       "unableToLoadImage": "Ошибка загрузки изображения",
       "maximumImageSize": "Максимальный поддерживаемый размер загружаемого изображения — 10 МБ.",
       "uploadImageErrorImageSizeTooBig": "Размер изображения должен быть меньше 10 МБ.",
-      "imageIsUploading": "Изображение загружается"
+      "imageIsUploading": "Изображение загружается",
+      "interactiveViewer": {
+        "toolbar": {
+          "zoomOutTooltip": "Отдалить",
+          "zoomInTooltip": "Приблизить",
+          "changeZoomLevelTooltip": "Изменить уровень масштабирования",
+          "openLocalImage": "Открыть изображение",
+          "downloadImage": "Скачать изображение",
+          "scalePercentage": "{}%",
+          "deleteImageTooltip": "Удалить изображение"
+        }
+      }
     },
     "codeBlock": {
       "language": {
@@ -2088,7 +2101,17 @@
     "noAccessToVisit": "Нет доступа к этой странице...",
     "createWithAppFlowy": "Создать веб-сайт с AppFlowy",
     "fastWithAI": "Быстро и легко с ИИ.",
-    "tryItNow": "Попробуй сейчас"
+    "tryItNow": "Попробуй сейчас",
+    "onlyGridViewCanBePublished": "Опубликовать можно только вид «Сетка».",
+    "database": {
+      "zero": "Опубликовать {} выбранный вид",
+      "one": "Опубликовать {} выбранные вида",
+      "many": "Опубликовать {} выбранных видов",
+      "other": "Опубликовать {} выбранных видов"
+    },
+    "mustSelectPrimaryDatabase": "Необходимо выбрать основной вид.",
+    "noDatabaseSelected": "База данных не выбрана. Выберите хотя бы одну базу данных.",
+    "unableToDeselectPrimaryDatabase": "Невозможно отменить выбор основной базы данных"
   },
   "web": {
     "continue": "Продолжить",

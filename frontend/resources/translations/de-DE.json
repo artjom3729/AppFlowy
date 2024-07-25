@@ -719,8 +719,8 @@
       "actions": {
         "upgrade": "Upgrade",
         "downgrade": "Downgrade",
-        "downgradeDisabledTooltip": "Du wirst am Ende des Abrechnungszeitraums automatisch herabgestuft",
-        "current": "Aktuell"
+        "current": "Aktuell",
+        "downgradeDisabledTooltip": "Du wirst am Ende des Abrechnungszeitraums automatisch herabgestuft"
       },
       "freePlan": {
         "title": "Kostenlos",
@@ -1404,8 +1404,8 @@
         "depth": "Tiefe"
       },
       "image": {
-        "copiedToPasteBoard": "Der Bildlink wurde in die Zwischenablage kopiert",
         "addAnImage": "Ein Bild hinzufügen",
+        "copiedToPasteBoard": "Der Bildlink wurde in die Zwischenablage kopiert",
         "imageUploadFailed": "Bild hochladen gescheitert",
         "errorCode": "Fehlercode"
       },

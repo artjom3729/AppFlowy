@@ -724,8 +724,8 @@
       "actions": {
         "upgrade": "שדרוג",
         "downgrade": "שנמוך",
-        "downgradeDisabledTooltip": "השנמוך יתבצע בסוף מחזור החיוב",
-        "current": "נוכחית"
+        "current": "נוכחית",
+        "downgradeDisabledTooltip": "השנמוך יתבצע בסוף מחזור החיוב"
       },
       "freePlan": {
         "title": "חינם",
@@ -1385,8 +1385,8 @@
         "depth": "עומק"
       },
       "image": {
-        "copiedToPasteBoard": "קישור התמונה הועתק ללוח הגזירים",
         "addAnImage": "הוספת תמונה",
+        "copiedToPasteBoard": "קישור התמונה הועתק ללוח הגזירים",
         "imageUploadFailed": "העלאת התמונה נכשלה",
         "errorCode": "קוד שגיאה"
       },
